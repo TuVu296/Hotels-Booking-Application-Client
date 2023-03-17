@@ -1,0 +1,16 @@
+.text-color {
+  color: #0d831a;
+  border-radius: 8px;
+}
+
+.booked-color {
+  background-color: #f69684;
+}
+
+.checkin-color {
+  background-color: #39d139;
+}
+
+.checkout-color {
+  background-color: #d3d0f1;
+}
