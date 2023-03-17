@@ -16,7 +16,7 @@ const setupInterceptor = (instance) => {
 }
 
 const instance = axios.create({
-  baseURL: 'http://localhost:5000',
+  baseURL: 'https://hotels-booking-application-server.vercel.app/api',
 });
 setupInterceptor(instance)
 
